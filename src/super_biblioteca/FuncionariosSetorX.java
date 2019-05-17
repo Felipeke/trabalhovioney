@@ -22,7 +22,7 @@ public class FuncionariosSetorX extends Professores{
        Professores professor = new Professores();
     }
     public void EditarProfessor(){
-      
+    
     }
     public void ExcluirProfessor(){
         
